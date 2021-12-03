@@ -15,5 +15,5 @@ I wanted to make an app that includes features no other app has.
 
 ## Credits:
 - Me - UI Design and Scripting
-- Leo!#7863 - Sound effects
+- pr0dle0 - Sound effects
 - RexButAlsoStorm - Tester
