@@ -5,6 +5,7 @@
 - message people
 - something like youtube shorts
 - sound fx like windows 11
+- silent mode
 
 ## Explanation:
 I wanted to make an app that includes features no other app has.
