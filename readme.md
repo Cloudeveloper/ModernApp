@@ -10,6 +10,9 @@
 ## Explanation:
 I wanted to make an app that includes features no other app has.
 
+## Plan:
+-- 30 
+
 ## Notes:
 - do not forget to add blur detail, something like the xbox app, or something like windows 11
 - add noise effects to add immersion (MAKE SURE THEY ARE SATISFYING)
