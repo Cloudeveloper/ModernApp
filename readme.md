@@ -11,8 +11,7 @@
 I wanted to make an app that includes features no other app has.
 
 ## Plan:
-30 Commits a day
-sometimes take a break
+no plan
 
 ## Notes:
 - do not forget to add blur detail, something like the xbox app, or something like windows 11
