@@ -11,7 +11,7 @@
 I wanted to make an app that includes features no other app has.
 
 ## Plan:
-no plan
+making app
 
 ## Notes:
 - do not forget to add blur detail, something like the xbox app, or something like windows 11
